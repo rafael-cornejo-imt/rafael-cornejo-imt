@@ -15,7 +15,7 @@ I believe in continuous growth and collaboration, and I'm excited to explore new
 Feel free to reach out if you want to chat or collaborate!
 
 - Email: [a00830973@tec.mx](mailto:a00830973@tec.mx)
-- LinkedIn: [rafael-cornejo-rdz](www.linkedin.com/in/rafael-cornejo-rdz)
+- LinkedIn: [rafael-cornejo-rdz](https://www.linkedin.com/in/rafael-cornejo-rdz)
 
 ## Fun Facts 🎉
 

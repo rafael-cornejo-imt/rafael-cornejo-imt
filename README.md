@@ -6,8 +6,8 @@ I believe in continuous growth and collaboration, and I'm excited to explore new
 
 ## Skills 💻
 
-- **Programming Languages**: Python, C++, Java
-- **Tools & Technologies**: SolidWorks, Arduino, PLCs
+- **Programming Languages**: Python, C++, R, LaTeX, MATLAB
+- **Tools & Technologies**: SolidWorks, Blender, Arduino, KiCad, GIMP
 - **Areas of Interest**: Robotics, Automation, AI
 
 ## Get in Touch 📬

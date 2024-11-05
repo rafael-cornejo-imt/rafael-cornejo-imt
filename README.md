@@ -1,5 +1,5 @@
 # Hello there! 👋
-![Header Image]([https://github.com/rafael-cornejo-imt/rafael-cornejo-imt/blob/main/images/portada%20linkedin%20cold%20blur.png](https://github.com/rafael-cornejo-imt/rafael-cornejo-imt/blob/main/images/portada%20linkedin%20cold%20blur%20crop.png))
+![Header Image](https://github.com/rafael-cornejo-imt/rafael-cornejo-imt/blob/main/images/portada%20linkedin%20cold%20blur%20crop.png)
 I'm a mechatronics engineering student at Tec, passionate about the intersection of mechanics and electronics. With hands-on experience in robotics, digital design, and smart manufacturing, I enjoy turning ideas into reality. I’ve worked with tools like SolidWorks, Arduino, and PLCs, but I know there’s always more to learn! 🌱
 
 I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way. If you share similar interests, feel free to connect! 🚀
